@@ -1,0 +1,24 @@
+{
+  "name": "node-spa",
+  "version": "0.0.0",
+  "description": "Simple single page application using AngularJS",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klambo94/SPAJavascript.git"
+  },
+  "author": "Kendra Lamb",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "method-override": "^2.1.3",
+    "morgan": "^1.1.1",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
