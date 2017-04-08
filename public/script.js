@@ -47,7 +47,6 @@ spaApp.controller('contactController', function($scope) {
 
 	//create a message to display in our view
 	$scope.message = 'Ways to contact Kendra Lamb';
-	$scope.linkedinMsg = "Linked in Profile";
 	$scope.emailMsg = 'Email: ';
 	$scope.email = 'klambo94@gmail.com';
 	$scope.phoneMsg = 'Phone: '
